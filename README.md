@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @foxydelta
+- 👋 Hi, I’m @foxydelta AKA Victoria.
 - 👀 I’m interested in technology, film, nature, animals, and charity.
-- 🌱 I’m currently studying Computer Science & Information Systems and working on my Bachelor's degree.
+- 🌱 I’m working on my Bachelor of Science in Computer Science & Information Systems degree.
 - 💞️ I’m looking to collaborate on fun projects that are useful for the everyday user.
 - 📫 How to reach me: send me a private message.
 
